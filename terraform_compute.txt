@@ -209,3 +209,5 @@ resource "google_compute_snapshot" "vulnerable_snapshot" {
     automated   = "false"
   }
 }
+
+########
